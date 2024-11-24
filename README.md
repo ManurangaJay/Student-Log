@@ -6,18 +6,13 @@ A simple full-stack web application for managing student information, built with
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The **Student Management Application** provides a seamless way to manage student data, such as adding new students, viewing the list of students, and fetching student details via a RESTful API. It showcases a modern tech stack with a clean, responsive user interface.
 
 ### Project Timeline:
-- **Start Date**: July 2024
-- **End Date**: July 2024
+- **Start Date**: 10 July 2024
+- **End Date**: 18 July 2024
 
 ## Features
 - **CRUD Operations**:
@@ -42,15 +37,6 @@ The **Student Management Application** provides a seamless way to manage student
 - **Material UI**: For modern and responsive user interface components.
 - **React Hooks**: (e.g., `useState`, `useEffect`) for state and lifecycle management.
 
-## Setup and Installation
+### User Interface:
+- ![image](https://github.com/user-attachments/assets/94431c88-588d-42f4-85bc-db9ad3571ba6)
 
-### Prerequisites
-- **Java 17+**
-- **Node.js 16+**
-- **MySQL Server**
-
-### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-management-app.git
-   cd student-management-app/backend
