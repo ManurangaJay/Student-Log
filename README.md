@@ -1,4 +1,4 @@
-# Student Management Application
+# Student Log
 
 A simple full-stack web application for managing student information, built with **Spring Boot** on the backend and **React** with **Material UI** on the frontend.
 
